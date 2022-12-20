@@ -11,7 +11,10 @@
       <!--  -->
     </v-main>
   </v-app>
-  
+
+
+  //apenas um teste para saber oq estou fazendo errado
+
 </template>
 
 
