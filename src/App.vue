@@ -12,9 +12,6 @@
     </v-main>
   </v-app>
 
-
-  //apenas um teste para saber oq estou fazendo errado
-
 </template>
 
 
@@ -22,8 +19,6 @@
 .v-app-bar {
   border-bottom-right-radius: 150rem;
 }
-
-
 
 </style>
 
